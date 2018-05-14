@@ -1,7 +1,8 @@
 This is the first change
 Second change
 Third change
-Changes again
+Changes again from branch 3
 more changes
 Changes in last commited
 Changes after branch b2
+Line added on branch 3
