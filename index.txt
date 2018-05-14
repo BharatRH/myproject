@@ -6,3 +6,8 @@ more changes
 Changes in last commited
 Changes after branch b2
 Line added on master branch
+Changes again from branch 3
+more changes
+Changes in last commited
+Changes after branch b2
+Line added on branch 3
