@@ -12,4 +12,4 @@ Changes in last commited
 Changes after branch b2
 Line added on branch 3
 Line added on branch fi
-Changed on github
+added locally
